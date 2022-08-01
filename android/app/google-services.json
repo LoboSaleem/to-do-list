@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182463297561",
+    "project_id": "todoey-76a2c",
+    "storage_bucket": "todoey-76a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182463297561:android:8095b95b9dad4c76c9d288",
+        "android_client_info": {
+          "package_name": "com.example.todoey_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182463297561-9hastk8rr1ojmbus0cbv3tlfmqeubu2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVXn0Evdcj_TQ40cbdOzp5_9Q6hTHj30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182463297561-9hastk8rr1ojmbus0cbv3tlfmqeubu2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
